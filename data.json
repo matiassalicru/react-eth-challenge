@@ -1,13 +1,13 @@
 {
   "data": {
-    "name": "Melissa Walsh",
+    "name": "Matías Salicrú",
     "profession": "FrontEnd Developer",
-    "address": "Bogotá, Colombia.",
-    "email": "melissa@example.com",
-    "website": "https://example.com",
-    "phone": "3042034240",
-    "avatar": "https://arepa.s3.amazonaws.com/melissa.jpg",
-    "Profile": "Ignore the squirrels, you'll never catch them anyway hack, for floof tum, tickle bum, jellybean footies curly toes climb leg roll over and sun my belly, ",
+    "address": "Córdoba, Argentina.",
+    "email": "mattiassalicru@gmail.com",
+    "website": "https://matiassalicru.vercel.app",
+    "phone": "+543834681214",
+    "avatar": "https://i.ibb.co/TmSD3JD/IMG-1693.jpg",
+    "Profile": "Front-end with +1 year of experience working on a Scrum Agile enviroment, self-taught, love for cats and tech <3",
     "certificate": [
       {
         "date": "Jan 2021",
@@ -24,60 +24,55 @@
     ],
     "Academic": [
       {
-        "degree": "Atomic Master",
-        "description": " I’m so hungry i’m so hungry but ew not for that pelt around the house and up and down stairs chasing phantoms",
-        "endDate": "Jan 2017",
-        "institution": "MIT",
+        "degree": "Computer Science Enginner Student",
+        "description": "Student of the degree of Computer Science Enginner",
+        "endDate": "Not yet",
+        "institution": "UTN",
         "startDate": "Jan 2018"
       },
       {
-        "degree": "Space Engineering",
-        "description": "Meow in empty rooms. Find empty spot in cupboard and sleep all day check cat door for ambush 10 times before coming in for hack. ",
-        "endDate": "Decenber 2015",
-        "institution": "Harvard",
+        "degree": "Platzi",
+        "description": "Student of platzi forever",
+        "endDate": "It never ends",
+        "institution": "Platzi",
         "startDate": "Jan 2017"
       }
     ],
     "experience": [
       {
-        "company": "PugStar",
+        "company": "COR",
         "endDate": "Present",
-        "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard.",
-        "jobTitle": "Frontend",
-        "startDate": "Jan 2020"
+        "jobDescription": "At cor I worked with TS, React, Docker, Jest, Php. With a complete Scrum team, Since I work here my knowledge grew fast because of the great team that I have...",
+        "jobTitle": "Frontend Enginner",
+        "startDate": "July 2021"
       },
       {
-        "company": "CatStore",
-        "endDate": "Jan 2016",
-        "jobDescription": "Meow in empty rooms lick left leg for ninety minutes, still dirty.",
-        "jobTitle": "Backend",
-        "startDate": "Sept 2019"
+        "company": "Brain IT",
+        "endDate": "September 2021",
+        "jobDescription": "This was a small company of 6 people where I could try different technologies and patters like atomic design and coding a Mobile First Application",
+        "jobTitle": "FrontEnd",
+        "startDate": "July2019"
       }
     ],
     "skills": [
       {
         "name": "HTML5",
-        "percentage": "75%"
+        "percentage": "95%"
       },
       {
-        "name": "CSS",
-        "percentage": "25%"
+        "name": "Styled-components",
+        "percentage": "85%"
       },
       {
         "name": "JavaScript",
-        "percentage": "55%"
+        "percentage": "60%"
       },
       {
         "name": "React",
         "percentage": "90%"
       }
     ],
-    "interest": [
-      "javascript",
-      "develop",
-      "backend",
-      "frontend"
-    ],
+    "interest": ["javascript", "develop", "backend", "frontend"],
     "languages": [
       {
         "name": "Spanish",
@@ -86,6 +81,10 @@
       {
         "name": "English",
         "percentage": "50%"
+      },
+      {
+        "name": "Italian",
+        "percentage": "20%"
       }
     ],
     "social": [
@@ -95,15 +94,15 @@
       },
       {
         "name": "twitter",
-        "url": "https://twitter.com/"
+        "url": "https://twitter.com/matiassalicru"
       },
       {
         "name": "github",
-        "url": "https://github.com/"
+        "url": "https://github.com/matiassalicru"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/"
+        "url": "https://www.linkedin.com/matias-salicru"
       }
     ]
   }
